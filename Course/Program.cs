@@ -21,8 +21,10 @@ namespace Course
             conjA.Add("Palmeiras");
             conjA.Add("Sport");
             conjA.Add("Bragantino");
+            conjA.Add("Botafogo");
             conjB.Add("Bragantino");
             conjB.Add("Fluminense");
+            conjB.Add("Botafogo");
 
             //conjA.UnionWith(conjB);
             //conjA.IntersectWith(conjB);
